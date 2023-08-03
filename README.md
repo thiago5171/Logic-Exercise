@@ -28,7 +28,7 @@ To execute a Python code from this repository, follow these steps:
 
 5. The program will run, and you will see the output of the script displayed in the terminal or command prompt.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Exercise 1: Simple Calculator
